@@ -1,0 +1,155 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DBFirstApproch_Product_Practice
+build_property.RootNamespace = DBFirstApproch_Product_Practice
+build_property.ProjectDir = D:\AshritaDash\DBFirstApproch(Product)Practice\DBFirstApproch(Product)Practice\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\AshritaDash\DBFirstApproch(Product)Practice\DBFirstApproch(Product)Practice
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/BillTbls/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFRibHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/BillTbls/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFRibHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/BillTbls/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFRibHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/BillTbls/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFRibHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/BillTbls/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFRibHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/CustomerTbls/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJUYmxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/CustomerTbls/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJUYmxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/CustomerTbls/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJUYmxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/CustomerTbls/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJUYmxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/CustomerTbls/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJUYmxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/OrderItemIds/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJJdGVtSWRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/OrderItemIds/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJJdGVtSWRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/OrderItemIds/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJJdGVtSWRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/OrderItemIds/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJJdGVtSWRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/OrderItemIds/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJJdGVtSWRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/OrderTbls/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJUYmxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/OrderTbls/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJUYmxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/OrderTbls/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJUYmxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/OrderTbls/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJUYmxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/OrderTbls/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJUYmxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/ProductTbls/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFRibHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/ProductTbls/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFRibHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/ProductTbls/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFRibHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/ProductTbls/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFRibHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/ProductTbls/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFRibHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AshritaDash/DBFirstApproch(Product)Practice/DBFirstApproch(Product)Practice/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-49ej9enjcu

@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|d:\\ashritadash\\dbfirstapproach(carengine)practice\\dbfirstapproach(carengine)practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|solutionrelative:dbfirstapproach(carengine)practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|d:\\ashritadash\\dbfirstapproach(carengine)practice\\dbfirstapproach(carengine)practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|solutionrelative:dbfirstapproach(carengine)practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|d:\\ashritadash\\dbfirstapproach(carengine)practice\\dbfirstapproach(carengine)practice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|solutionrelative:dbfirstapproach(carengine)practice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|d:\\ashritadash\\dbfirstapproach(carengine)practice\\dbfirstapproach(carengine)practice\\controllers\\enginetblscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|solutionrelative:dbfirstapproach(carengine)practice\\controllers\\enginetblscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|d:\\ashritadash\\dbfirstapproach(carengine)practice\\dbfirstapproach(carengine)practice\\controllers\\cartblscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|solutionrelative:dbfirstapproach(carengine)practice\\controllers\\cartblscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|d:\\ashritadash\\dbfirstapproach(carengine)practice\\dbfirstapproach(carengine)practice\\models\\enginetbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|solutionrelative:dbfirstapproach(carengine)practice\\models\\enginetbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|d:\\ashritadash\\dbfirstapproach(carengine)practice\\dbfirstapproach(carengine)practice\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|solutionrelative:dbfirstapproach(carengine)practice\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|d:\\ashritadash\\dbfirstapproach(carengine)practice\\dbfirstapproach(carengine)practice\\models\\cartbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|solutionrelative:dbfirstapproach(carengine)practice\\models\\cartbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|d:\\ashritadash\\dbfirstapproach(carengine)practice\\dbfirstapproach(carengine)practice\\models\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF657D01-035E-44BC-860D-F5C472104B30}|DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice.csproj|solutionrelative:dbfirstapproach(carengine)practice\\models\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DBFirstapproach(CarEngine)Practice\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DBFirstapproach(CarEngine)Practice\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T18:10:22.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EngineTblsController.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\Controllers\\EngineTblsController.cs",
+              "RelativeDocumentMoniker": "DBFirstapproach(CarEngine)Practice\\Controllers\\EngineTblsController.cs",
+              "ToolTip": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\Controllers\\EngineTblsController.cs",
+              "RelativeToolTip": "DBFirstapproach(CarEngine)Practice\\Controllers\\EngineTblsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:08:34.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarTblsController.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\Controllers\\CarTblsController.cs",
+              "RelativeDocumentMoniker": "DBFirstapproach(CarEngine)Practice\\Controllers\\CarTblsController.cs",
+              "ToolTip": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\Controllers\\CarTblsController.cs",
+              "RelativeToolTip": "DBFirstapproach(CarEngine)Practice\\Controllers\\CarTblsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:07:45.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EngineTbl.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\Models\\EngineTbl.cs",
+              "RelativeDocumentMoniker": "DBFirstapproach(CarEngine)Practice\\Models\\EngineTbl.cs",
+              "ToolTip": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\Models\\EngineTbl.cs",
+              "RelativeToolTip": "DBFirstapproach(CarEngine)Practice\\Models\\EngineTbl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:06:40.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarTbl.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\Models\\CarTbl.cs",
+              "RelativeDocumentMoniker": "DBFirstapproach(CarEngine)Practice\\Models\\CarTbl.cs",
+              "ToolTip": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\Models\\CarTbl.cs",
+              "RelativeToolTip": "DBFirstapproach(CarEngine)Practice\\Models\\CarTbl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:06:36.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarDbContext.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\Models\\CarDbContext.cs",
+              "RelativeDocumentMoniker": "DBFirstapproach(CarEngine)Practice\\Models\\CarDbContext.cs",
+              "ToolTip": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\Models\\CarDbContext.cs",
+              "RelativeToolTip": "DBFirstapproach(CarEngine)Practice\\Models\\CarDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:05:34.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DBFirstapproach(CarEngine)Practice\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DBFirstapproach(CarEngine)Practice\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:53:46.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\Program.cs",
+              "RelativeDocumentMoniker": "DBFirstapproach(CarEngine)Practice\\Program.cs",
+              "ToolTip": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\Program.cs",
+              "RelativeToolTip": "DBFirstapproach(CarEngine)Practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:06:10.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\appsettings.json",
+              "RelativeDocumentMoniker": "DBFirstapproach(CarEngine)Practice\\appsettings.json",
+              "ToolTip": "D:\\AshritaDash\\DBFirstapproach(CarEngine)Practice\\DBFirstapproach(CarEngine)Practice\\appsettings.json",
+              "RelativeToolTip": "DBFirstapproach(CarEngine)Practice\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T17:04:00.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

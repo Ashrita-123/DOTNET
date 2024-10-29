@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MvcCodeFirstApproach_Ashrita.props" />
+</Project>

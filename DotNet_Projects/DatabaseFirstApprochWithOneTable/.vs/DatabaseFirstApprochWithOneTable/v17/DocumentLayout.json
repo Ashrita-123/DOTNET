@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AshritaDash\\DatabaseFirstApprochWithOneTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC42581-3FE7-4581-AC4E-B55E53B65034}|DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable.csproj|d:\\ashritadash\\databasefirstapprochwithonetable\\databasefirstapprochwithonetable\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBC42581-3FE7-4581-AC4E-B55E53B65034}|DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable.csproj|solutionrelative:databasefirstapprochwithonetable\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC42581-3FE7-4581-AC4E-B55E53B65034}|DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable.csproj|d:\\ashritadash\\databasefirstapprochwithonetable\\databasefirstapprochwithonetable\\models\\tblcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC42581-3FE7-4581-AC4E-B55E53B65034}|DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable.csproj|solutionrelative:databasefirstapprochwithonetable\\models\\tblcountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC42581-3FE7-4581-AC4E-B55E53B65034}|DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable.csproj|d:\\ashritadash\\databasefirstapprochwithonetable\\databasefirstapprochwithonetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC42581-3FE7-4581-AC4E-B55E53B65034}|DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable.csproj|solutionrelative:databasefirstapprochwithonetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC42581-3FE7-4581-AC4E-B55E53B65034}|DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable.csproj|d:\\ashritadash\\databasefirstapprochwithonetable\\databasefirstapprochwithonetable\\controllers\\tblcountriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC42581-3FE7-4581-AC4E-B55E53B65034}|DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable.csproj|solutionrelative:databasefirstapprochwithonetable\\controllers\\tblcountriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC42581-3FE7-4581-AC4E-B55E53B65034}|DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable.csproj|d:\\ashritadash\\databasefirstapprochwithonetable\\databasefirstapprochwithonetable\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC42581-3FE7-4581-AC4E-B55E53B65034}|DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable.csproj|solutionrelative:databasefirstapprochwithonetable\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC42581-3FE7-4581-AC4E-B55E53B65034}|DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable.csproj|d:\\ashritadash\\databasefirstapprochwithonetable\\databasefirstapprochwithonetable\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC42581-3FE7-4581-AC4E-B55E53B65034}|DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable.csproj|solutionrelative:databasefirstapprochwithonetable\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC42581-3FE7-4581-AC4E-B55E53B65034}|DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable.csproj|d:\\ashritadash\\databasefirstapprochwithonetable\\databasefirstapprochwithonetable\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBC42581-3FE7-4581-AC4E-B55E53B65034}|DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable.csproj|solutionrelative:databasefirstapprochwithonetable\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC42581-3FE7-4581-AC4E-B55E53B65034}|DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable.csproj|d:\\ashritadash\\databasefirstapprochwithonetable\\databasefirstapprochwithonetable\\models\\countryashritadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC42581-3FE7-4581-AC4E-B55E53B65034}|DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable.csproj|solutionrelative:databasefirstapprochwithonetable\\models\\countryashritadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApprochWithOneTable\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\AshritaDash\\DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DatabaseFirstApprochWithOneTable\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:37:03.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApprochWithOneTable\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\AshritaDash\\DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DatabaseFirstApprochWithOneTable\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:36:40.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TblCountriesController.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable\\Controllers\\TblCountriesController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApprochWithOneTable\\Controllers\\TblCountriesController.cs",
+              "ToolTip": "D:\\AshritaDash\\DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable\\Controllers\\TblCountriesController.cs",
+              "RelativeToolTip": "DatabaseFirstApprochWithOneTable\\Controllers\\TblCountriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:06:37.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AshritaDash\\DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable\\appsettings.json",
+              "RelativeDocumentMoniker": "DatabaseFirstApprochWithOneTable\\appsettings.json",
+              "ToolTip": "D:\\AshritaDash\\DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable\\appsettings.json",
+              "RelativeToolTip": "DatabaseFirstApprochWithOneTable\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T06:38:56.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\AshritaDash\\DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DatabaseFirstApprochWithOneTable\\appsettings.Development.json",
+              "ToolTip": "D:\\AshritaDash\\DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable\\appsettings.Development.json",
+              "RelativeToolTip": "DatabaseFirstApprochWithOneTable\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T06:38:39.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TblCountry.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable\\Models\\TblCountry.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApprochWithOneTable\\Models\\TblCountry.cs",
+              "ToolTip": "D:\\AshritaDash\\DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable\\Models\\TblCountry.cs",
+              "RelativeToolTip": "DatabaseFirstApprochWithOneTable\\Models\\TblCountry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:32:28.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApprochWithOneTable\\Program.cs",
+              "ToolTip": "D:\\AshritaDash\\DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable\\Program.cs",
+              "RelativeToolTip": "DatabaseFirstApprochWithOneTable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:21:52.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountryAshritaDbContext.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable\\Models\\CountryAshritaDbContext.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApprochWithOneTable\\Models\\CountryAshritaDbContext.cs",
+              "ToolTip": "D:\\AshritaDash\\DatabaseFirstApprochWithOneTable\\DatabaseFirstApprochWithOneTable\\Models\\CountryAshritaDbContext.cs",
+              "RelativeToolTip": "DatabaseFirstApprochWithOneTable\\Models\\CountryAshritaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:17:00.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

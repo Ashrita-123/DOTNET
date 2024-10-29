@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AshritaDash\\WebApplicationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0115BD94-9A14-48A2-A537-A51A3339A6D5}|WebApplicationAPI\\WebApplicationAPI.csproj|d:\\ashritadash\\webapplicationapi\\webapplicationapi\\webapplicationapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0115BD94-9A14-48A2-A537-A51A3339A6D5}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\webapplicationapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0115BD94-9A14-48A2-A537-A51A3339A6D5}|WebApplicationAPI\\WebApplicationAPI.csproj|d:\\ashritadash\\webapplicationapi\\webapplicationapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0115BD94-9A14-48A2-A537-A51A3339A6D5}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0115BD94-9A14-48A2-A537-A51A3339A6D5}|WebApplicationAPI\\WebApplicationAPI.csproj|d:\\ashritadash\\webapplicationapi\\webapplicationapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0115BD94-9A14-48A2-A537-A51A3339A6D5}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0115BD94-9A14-48A2-A537-A51A3339A6D5}|WebApplicationAPI\\WebApplicationAPI.csproj|d:\\ashritadash\\webapplicationapi\\webapplicationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0115BD94-9A14-48A2-A537-A51A3339A6D5}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0115BD94-9A14-48A2-A537-A51A3339A6D5}|WebApplicationAPI\\WebApplicationAPI.csproj|d:\\ashritadash\\webapplicationapi\\webapplicationapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0115BD94-9A14-48A2-A537-A51A3339A6D5}|WebApplicationAPI\\WebApplicationAPI.csproj|solutionrelative:webapplicationapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\AshritaDash\\WebApplicationAPI\\WebApplicationAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\AshritaDash\\WebApplicationAPI\\WebApplicationAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplicationAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T11:26:54.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApplicationAPI.http",
+              "DocumentMoniker": "D:\\AshritaDash\\WebApplicationAPI\\WebApplicationAPI\\WebApplicationAPI.http",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\WebApplicationAPI.http",
+              "ToolTip": "D:\\AshritaDash\\WebApplicationAPI\\WebApplicationAPI\\WebApplicationAPI.http",
+              "RelativeToolTip": "WebApplicationAPI\\WebApplicationAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-17T11:26:21.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\WebApplicationAPI\\WebApplicationAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\AshritaDash\\WebApplicationAPI\\WebApplicationAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplicationAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:24:21.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\WebApplicationAPI\\WebApplicationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\Program.cs",
+              "ToolTip": "D:\\AshritaDash\\WebApplicationAPI\\WebApplicationAPI\\Program.cs",
+              "RelativeToolTip": "WebApplicationAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:22:26.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\WebApplicationAPI\\WebApplicationAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPI\\WeatherForecast.cs",
+              "ToolTip": "D:\\AshritaDash\\WebApplicationAPI\\WebApplicationAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplicationAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:22:13.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|d:\\ashritadash\\projects\\dbfirstapproachwiththreetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|d:\\ashritadash\\projects\\dbfirstapproachwiththreetable\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|d:\\ashritadash\\projects\\dbfirstapproachwiththreetable\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|solutionrelative:controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|d:\\ashritadash\\projects\\dbfirstapproachwiththreetable\\models\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|solutionrelative:models\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|d:\\ashritadash\\projects\\dbfirstapproachwiththreetable\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|d:\\ashritadash\\projects\\dbfirstapproachwiththreetable\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|d:\\ashritadash\\projects\\dbfirstapproachwiththreetable\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|d:\\ashritadash\\projects\\dbfirstapproachwiththreetable\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|d:\\ashritadash\\projects\\dbfirstapproachwiththreetable\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|d:\\ashritadash\\projects\\dbfirstapproachwiththreetable\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F914B1A-1BB8-4095-84E6-B66D7704C6F0}|DbFirstApproachWithThreetable.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:37:30.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:46:04.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Models\\Enrollment.cs",
+              "ToolTip": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:17:23.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:16:59.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnrollmentsController.cs",
+              "ToolTip": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T04:04:13.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T03:53:08.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:52:35.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:52:28.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UniversityContext.cs",
+              "DocumentMoniker": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Models\\UniversityContext.cs",
+              "RelativeDocumentMoniker": "Models\\UniversityContext.cs",
+              "ToolTip": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Models\\UniversityContext.cs",
+              "RelativeToolTip": "Models\\UniversityContext.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:07:49.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\AshritaDash\\Projects\\DbFirstApproachWithThreetable\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T12:55:30.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

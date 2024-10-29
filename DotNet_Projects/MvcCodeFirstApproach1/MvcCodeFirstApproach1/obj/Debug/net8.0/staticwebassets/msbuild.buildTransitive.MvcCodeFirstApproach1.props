@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MvcCodeFirstApproach1.props" />
+</Project>

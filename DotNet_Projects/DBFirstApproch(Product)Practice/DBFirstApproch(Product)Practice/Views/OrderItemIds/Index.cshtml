@@ -1,0 +1,47 @@
+﻿@model IEnumerable<DBFirstApproch_Product_Practice.Models.OrderItemId>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NoOfItems)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Propduct)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoOfItems)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order.OrderId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Propduct.ProductId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.OrderItemId1">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.OrderItemId1">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.OrderItemId1">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

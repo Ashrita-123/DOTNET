@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AshritaDash\\WebApplicationMVCTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD884846-3075-435C-B0FA-8055796C8803}|WebApplicationMVCTemplate\\WebApplicationMVCTemplate.csproj|d:\\ashritadash\\webapplicationmvctemplate\\webapplicationmvctemplate\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD884846-3075-435C-B0FA-8055796C8803}|WebApplicationMVCTemplate\\WebApplicationMVCTemplate.csproj|solutionrelative:webapplicationmvctemplate\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD884846-3075-435C-B0FA-8055796C8803}|WebApplicationMVCTemplate\\WebApplicationMVCTemplate.csproj|d:\\ashritadash\\webapplicationmvctemplate\\webapplicationmvctemplate\\webapplicationmvctemplate.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FD884846-3075-435C-B0FA-8055796C8803}|WebApplicationMVCTemplate\\WebApplicationMVCTemplate.csproj|solutionrelative:webapplicationmvctemplate\\webapplicationmvctemplate.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\AshritaDash\\WebApplicationMVCTemplate\\WebApplicationMVCTemplate\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplicationMVCTemplate\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\AshritaDash\\WebApplicationMVCTemplate\\WebApplicationMVCTemplate\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplicationMVCTemplate\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T05:30:14.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApplicationMVCTemplate",
+              "DocumentMoniker": "D:\\AshritaDash\\WebApplicationMVCTemplate\\WebApplicationMVCTemplate\\WebApplicationMVCTemplate.csproj",
+              "RelativeDocumentMoniker": "WebApplicationMVCTemplate\\WebApplicationMVCTemplate.csproj",
+              "ToolTip": "D:\\AshritaDash\\WebApplicationMVCTemplate\\WebApplicationMVCTemplate\\WebApplicationMVCTemplate.csproj",
+              "RelativeToolTip": "WebApplicationMVCTemplate\\WebApplicationMVCTemplate.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T05:29:35.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

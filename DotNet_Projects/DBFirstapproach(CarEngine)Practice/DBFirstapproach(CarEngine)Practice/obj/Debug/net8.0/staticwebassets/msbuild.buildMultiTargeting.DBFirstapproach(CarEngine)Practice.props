@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DBFirstapproach(CarEngine)Practice.props" />
+</Project>
